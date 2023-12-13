@@ -1,0 +1,14 @@
+.nav{
+  position: fixed;
+  height: 64px;
+  width: 100%;
+  padding: 0px 16px;
+  display: flex;
+  align-items: center;
+  background-color: var(--bg-color-2nd);
+  border-bottom: 1px solid var(--ui-color);
+}
+
+.texto{
+  color: white;
+}

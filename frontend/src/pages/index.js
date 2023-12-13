@@ -1,0 +1,7 @@
+export {default as RootLayout} from './layout/RootLayout'
+export {default as Home} from './home/Home'
+export {default as Overview} from './overview/Overview'
+export {default as Tracagem} from './tracagem/Tracagem'
+export {default as Terminal} from './terminal/Terminal'
+export {default as TerminalOpertion} from './terminal-oper/TerminalOper'
+export {default as Page404} from './not-found/Page404'
